@@ -1,0 +1,24 @@
+.team{
+img
+{
+width:400px;
+  height: 300px;
+}
+.textuni{
+  margin-left: 150px;
+}
+.carousel-indicators li {
+
+  width: 10px;
+  height: 10px;
+ border: 1px solid $primary;
+  border-radius: 10px;
+}
+
+.carousel-indicators .active {
+  width: 12px;
+  height: 12px;
+  margin: 0;
+  background-color: $primary;
+}
+}
